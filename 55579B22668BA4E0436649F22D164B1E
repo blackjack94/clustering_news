@@ -1,0 +1,19 @@
+Đáp án bài toán 'pháp sư và phù thủy'
+Có 100 đại biểu tham dự đại hội các pháp sư và phù thủy trẻ do trường Hogwarts tổ chức.
+Pháp sư luôn nói thật còn phù thủy luôn nói dối. Do tình hình đại hội ngày càng căng thẳng nên một số đại biểu lần lượt bỏ về (người này về sau người kia chừng 1 phút).
+Khi ra khỏi phòng đại hội, mỗi một trong 60 đại biểu bỏ về đều tuyên bố với báo chí “Trong số những người còn ở lại người nói dối nhiều hơn người nói thật”. Hỏi có bao nhiêu phù thủy tham dự đại hội?
+Giải:
+Nếu pháp sư nhiều hơn phù thủy thì số pháp sư sẽ ít nhất là 51. Lúc này, người bỏ về đầu tiên phải là phù thủy vì nếu pháp sư bỏ về thì ông ta sẽ nói dối (còn lại ít nhất 50 pháp sư và nhiều nhất 49 phù thủy). Những đại biểu bỏ về tiếp theo, cũng vì lý do tương tự, chỉ có thể là phù thủy. Do đó tổng cộng số người bỏ về sẽ không quá 49. Điều này mâu thuẫn vì có đến 60 đại biểu bỏ về.
+Ngược lại, nếu phù thủy nhiều hơn pháp sư thì số phù thủy ít nhất là 51. Lúc này người bỏ về đầu tiên sẽ phải là pháp sư và những người bỏ về tiếp theo cũng chỉ có thể là pháp sư. Do đó số người bỏ về sẽ không quá 49 và cũng như trên, ta có mâu thuẫn.
+Vậy chỉ còn lại trường hợp số pháp sư bằng số phù thủy. Trường hợp này có thể xảy ra nếu như người đầu tiên bỏ về là pháp sư, người thứ hai bỏ về là phù thủy, người thứ ba bỏ về là pháp sư…
+Vậy đáp số là 50 phù thủy. 
+Chú ý là trong bài toán này, số 60 không quan trọng và có thể thay bằng bất cứ số bào lớn hơn hay bằng 50.
+TS Trần Nam Dũng
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

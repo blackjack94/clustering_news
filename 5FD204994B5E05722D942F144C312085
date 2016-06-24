@@ -1,0 +1,17 @@
+Hàng trăm hệ thống tại Việt Nam có nguy cơ bị đánh cắp dữ liệu
+Một lỗ hổng an ninh nghiêm trọng được phát hiện trong OpenSSL, ảnh hưởng hơn 11 triệu trang web và các dịch vụ e-mail, trong đó có cả ở Việt Nam.
+Theo diễn đàn bảo mật WhiteHat của Bkav, lỗ hổng mang tên Drown khai thác điểm yếu của giao thức SSLv2, ảnh hưởng tới các kết nối có mã hóa như HTTPS và các dịch vụ khác dựa trên giao thức SSL và TLS. Đây là giao thức được dùng để mã hóa dữ liệu trong các dịch vụ như ebanking, thương mại điện tử... cũng như được nhiều cơ quan sử dụng để cho phép nhân viên có thể truy cập vào các ứng dụng nội bộ của cơ quan, làm việc từ xa qua Internet.
+Lỗ hổng được các chuyên gia bảo mật mô tả như một cuộc tấn công chi phí thấp, tạo cơ hội cho tội phạm mạng lấy được thông nhạy cảm của người dùng như mật khẩu, dữ liệu cá nhân, tài khoản ngân hàng, truy cập hộp thư hoặc xâm nhập trái phép vào mạng nội bộ của cơ quan.
+Nguồn: Thehackernews, Bkav.
+Bkav đã tiến hành kiểm tra các hệ thống quan trọng tại Việt Nam và nhận thấy hàng trăm hệ thống có thể bị tấn công, đặt người dùng trước nguy cơ bị đánh cắp các thông tin quan trọng như mật khẩu, thông tin cá nhân, tài khoản ngân hàng...
+Trong số này có 58% thuộc lĩnh vực tài chính, 21% thuộc lĩnh vực dầu khí, 11% thuộc lĩnh vực công nghiệp, hàng tiêu dùng, 5% thuộc lĩnh vực công nghệ, viễn thông và 5% thuộc lĩnh vực vận tải, du lịch. Bkav đã gửi cảnh báo và hướng dẫn cách khắc phục lỗ hổng đến các bên bị ảnh hưởng.
+Ông Ngô Tuấn Anh, Phó chủ tịch phụ trách An ninh mạng của Bkav, cho biết: "Lỗ hổng Drown khó khai thác hơn Heartbleed do tin tặc phải đứng giữa kết nối của máy chủ và người dùng. Tuy nhiên, nguy cơ khai thác lỗ hổng để đánh cắp thông tin người sử dụng hoàn toàn có thể xảy ra. Các quản trị hệ thống cần vô hiệu hóa giao thức SSLv2 để bảo vệ an toàn cho hệ thống của mình và người dùng".
+Xem nhiều nhất
+Tin Khác
+Những chiếc máy nghe nhạc của Apple dù đã ngừng sản xuất vẫn được chào bán trên eBay với giá cao gấp vài lần giá
+Lợi thế về khẩu độ mở giúp di động của Samsung chụp trong tối tốt hơn và khả năng xóa phông nền mạnh hơn với các bức chụp cận cảnh. 
+Cài đặt chữ ngược, tắt thông báo Facebook trên Chrome... hay cài đặt thừa kế tài khoản sau khi qua đời là những tính năng hay trên Facebook mà nhiều người chưa biết.
+Tư vấn
+Chọn mua trên mạng thì giá TV rẻ hơn các siêu thị điện máy đến hơn 2 triệu đồng, nhưng em không biết có ổn không.
+Trang chủ
+

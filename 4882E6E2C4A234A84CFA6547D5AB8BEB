@@ -1,0 +1,21 @@
+Sự lỏng lẻo trong hệ thống máy tính của công ty luật Panama
+Hệ thống máy tính của Mossack Fonseca, công ty luật ở Panama bị lộ tới 2,6 TB dữ liệu, đã lạc hậu và chứa đầy lỗ hổng bảo mật.
+Những vụ lộ dữ liệu gây chấn động trong kỷ nguyên số
+Theo tạp chí Wired, trang web của hãng này tồn tại lỗi bảo mật Drown , khai thác điểm yếu của giao thức SSLv2, ảnh hưởng tới kết nối có mã hóa như HTTPS và các dịch vụ khác dựa trên giao thức SSL và TLS. Lỗ hổng này được các chuyên gia mô tả như một cuộc tấn công chi phí thấp, tạo cơ hội cho tội phạm mạng lấy được thông tin nhạy cảm của người dùng như mật khẩu, dữ liệu cá nhân hoặc xâm nhập trái phép vào mạng nội bộ của cơ quan.
+Website của Mossack Fonseca sử dụng hệ quản trị nội dung (CMS) nguồn mở Drupal được cập nhật từ cách đây 3 năm (tháng 8/2013). Phiên bản này chứa tới 25 lỗ hổng, trong đó có một lỗ hổng đặc biệt nguy hiểm, có khả năng tiến hành một cuộc tấn công khai thác SQL thông qua các request được thiết kế đặc biệt và kéo theo các hình thức sự leo thang đặc quyền. Ngoài ra, trang web này cũng được trang bị nền tảng WordPress 4.1 phát hành từ tháng 12/2014 chứa các plugin lỗi thời.
+Trong khi đó, hệ thống webmail Outlook Web Access của hãng thậm chí không được cập nhập phần mềm từ năm 2009. Các e-mail của Mossack Fonseca cũng không hề được mã hóa, khiến không ít chuyên gia an ninh mạng phải tỏ ra ngạc nhiên.
+Các tài liệu trong vụ Hồ sơ Panama có thể bị lộ qua các cuộc khai thác lỗ hổng bảo mật.
+Mossack Fonseca hứa hẹn cung cấp "tài khoản trực tuyến an toàn", nhưng cách họ quản lý máy chủ và website thì vô cùng lỏng lẻo và dễ dàng mở đường cho hacker tiếp cận dữ liệu nhạy cảm. Giáo sư Alan Woodward thuộc Đại học Surrey (Anh) nhận định, cơ chế bảo mật của công ty luật trong vụ Hồ sơ Panama là "lạc hậu không thể hiểu nổi".
+Hiện chưa rõ những lỗ hổng nào trong hệ thống của Mossack Fonseca bị khai thác. Ramon Fonseca, đồng sáng lập Mossack Fonseca, trước đó khẳng định với AP rằng hệ thống nội bộ của công ty đã bị thâm nhập trái phép và "bị hacker lấy cắp dữ liệu", nhưng báo chí lại không hề đả động tới hành vi bất hợp pháp này mà chỉ nhắm vào tên tuổi của những khách hàng nổi tiếng.
+Ngày 3/4/2016, khoảng 11,5 triệu tài liệu, trong đó có 4,8 triệu e-mail, 2,5 triệu bộ hồ sơ với dung lượng 2,6 terabyte từ năm 1977 đến cuối 2015 của công ty luật Mossack Fonseca ở Panama bị rò rỉ, hé lộ mạng lưới công ty "ma" khổng lồ trên thế giới. Chúng được cho là lập ra để giúp người giàu né thuế và trong một số trường hợp là rửa tiền. Nhiều công ty được đề cập có liên quan đến thân tín của các chính khách và người nổi tiếng trên thế giới.
+Phát hiện chấn động này đòi hỏi nỗ lực của nhiều nhà báo, mà trong đó Hiệp hội Phóng viên Điều tra Quốc tế ICIJ là tổ chức đóng vai trò trung tâm. Trước đó, ICIJ đã phơi bày bí mật về nhiều vụ gian lận tài chính, rửa tiền, trốn thuế... qua các dự án Offshore Leaks 2013 (230 GB dữ liệu), Lux Leaks 2014 (4 GB) và Swiss Leaks 2015 (3,3 GB).
+Bạn có thể quan tâm
+Xem nhiều nhất
+Tin Khác
+Những chiếc máy nghe nhạc của Apple dù đã ngừng sản xuất vẫn được chào bán trên eBay với giá cao gấp vài lần giá
+Lợi thế về khẩu độ mở giúp di động của Samsung chụp trong tối tốt hơn và khả năng xóa phông nền mạnh hơn với các bức chụp cận cảnh. 
+Cài đặt chữ ngược, tắt thông báo Facebook trên Chrome... hay cài đặt thừa kế tài khoản sau khi qua đời là những tính năng hay trên Facebook mà nhiều người chưa biết.
+Tư vấn
+Chọn mua trên mạng thì giá TV rẻ hơn các siêu thị điện máy đến hơn 2 triệu đồng, nhưng em không biết có ổn không.
+Trang chủ
+

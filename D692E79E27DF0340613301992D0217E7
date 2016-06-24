@@ -1,0 +1,23 @@
+Đáp án bài toán 'mua kẹo khuyến mại'
+Đề bài:
+Ở trung tâm giải trí Euroland có chiếc máy tự động có thể thực hiện được hai loại giao dịch sau:
+1) Bỏ vào 2 euro sẽ nhận được 3 USD và được tặng thêm 1 viên kẹo.
+2) Bỏ vào 5 USD sẽ nhận được 3 euro và được tặng thêm 1 viên kẹo.
+Khi Buratino đến nghịch máy đổi tiền, cậu ta chỉ có toàn USD. Khi cậu ta rời khỏi đó thì tiền đô bị hao hụt đi, không có thêm tiền euro nhưng có được 50 viên kẹo.
+Cách 1:
+Vì Buratino nhận được 50 viên kẹo, cậu ta đã thực hiện 50 lần đổi. Trong đó tất cả số euro thu được cậu ta đều đổi lại thành USD.
+Vì thế cứ 3 lần đổi loại 1 sẽ có 2 lần đổi loại 2.
+Vậy Buratino sẽ thực hiện 30 lần đổi loại 1 và 20 lần đổi loại 2. Tức là Buratino có 30 lần nhận 3 USD và 20 lần nạp vào 5 USD.
+Cách 2:
+Ta lập hệ phương trình 2E = 3D + K, 5D = 3E + K.
+Từ đây 10D = 6E + 2K = 3(3D+K) + 2K = 9D + 5K.
+Suy ra D = 5K. Từ đó 10D = 50K.
+TS Trần Nam Dũng
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

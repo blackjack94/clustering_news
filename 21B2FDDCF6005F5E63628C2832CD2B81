@@ -1,0 +1,22 @@
+Đáp án bài toán nổi tiếng 'cướp biển chia tiền'
+Tên cướp biển lớn tuổi nhất sẽ chia 98 : 0 : 1 : 0 : 1, nói cách khác, anh ta sẽ được 98 đồng, người ở giữa 1 đồng và người trẻ nhất 1 đồng.
+5 tên cướp biển có số tuổi khác nhau có một kho tàng gồm 100 đồng vàng. Trên con tàu của mình, chúng định chia số tiền vàng theo quy tắc sau:
+Tên cướp biển lớn tuổi nhất sẽ đưa ra một phương án chia và tất cả các tên cướp biển (kể cả tên lớn tuổi nhất) sẽ biểu quyết phương án đó. Nếu 50% hoặc nhiều hơn đồng ý thì phương án được thông qua và họ sẽ chia tiền theo cách đó. Trường hợp ngược lại, người đề xuất phương án sẽ bị vứt xuống biển và quá trình trên sẽ được lặp lại với các tên cướp biển còn lại.
+Các tên cướp biển có đặc điểm là khát máu, nếu có thể nhận được số tiền giống nhau khi đồng ý hoặc không đồng ý với đề xuất, anh ta sẽ không đồng ý để cho tên cướp biển đề xuất bị vứt xuống biển.
+Giả sử rằng cả 5 tên cướp biển đều thông minh, hợp lý, tham lam và không muốn chết (và cũng khá giỏi toán) thì điều gì sẽ xảy ra?
+Đáp án:
+Ta gọi 5 tên cướp biển là A, B, C, D, E (từ giá nhất đến trẻ nhất). Ta giải ngược từ dưới lên như sau.
+Nếu chỉ có 2 tên cướp biển: D chia số tiền theo tỷ lệ 100:0 (lấy hết số tiền vàng về mình). Anh ta sẽ biểu quyết đồng ý và điều này đủ để phương án được thông qua.
+Nếu chỉ có 3 tên cướp biển: C sẽ chia số tiền theo tỷ lệ 99 : 0 : 1. E sẽ chấp nhận phương án này (chỉ được có 1 đồng vàng), vì anh ta biết rằng trong trường hợp anh ta phản đối phương án, chỉ còn lại D và E thì anh ta sẽ chẳng được gì.
+Nếu có 4 cướp biển: B chia tiền thành 99: 0 : 1: 0. Cũng lý luận như trên, ta thấy D sẽ ủng hộ phương án này. B cũng không nên dùng 1 đồng để mua chuộc C vì C biết rằng nếu anh ta không ủ hộ B, anh ta sẽ bỏ túi 99 đồng xu nếu B bị vứt xuống biển. B cũng không nên mua chuộc E vì E biết rằng nếu B bị vứt xuống biển và C chia tiền thì anh ta cũng sẽ được C chia cho 1 đồng.
+Nếu có 5 cướp biển: A chia các đồng tiền theo tỷ lệ 98 : 0 : 1 : 0 : 1. Bằng cách cho C và E mỗi người một đồng tiền vàng (những người sẽ chẳng được gì nếu không đồng ý phương án của A), anh ta đảm bảo phương án sẽ được thông qua.
+Ghi chú: Trong trường hợp cuối (cũng chính là trường hợp của đề bài) A không cho B tiền vì B biết rằng nếu anh ta không đồng ý phương án của A và A bị vứt xuống biển thì anh ta sẽ bỏ túi 99 đồng. Tương tự như vậy, anh ta sẽ không cho D một đồng tiền vàng, vì D biết nếu A thất bại thì B cũng cho D một đồng tiền vàng như A. Mà như thế thì do tính khát máu, D sẽ không bỏ phiếu cho A.
+TS Trần Nam Dũng
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

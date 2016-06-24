@@ -1,0 +1,27 @@
+Tại sao nên nâng cấp lên Chrome 64-bit
+Lướt web an toàn hơn, nhanh hơn và ổn định hơn là lý do những ai chưa hoặc đang sử dụng Google Chrome 32-bit nên nâng cấp trình duyệt này lên phiên bản 64-bit.
+Bạn có thể kiểm tra hệ thống của mình đang chạy Windows 32-bit hay 64-bit bằng cách bấm chuột phải vào My Computer, chọn Properties và tìm đến dòng System Type.
+Chrome 64-bit an toàn, nhanh và ổn định hơn so với phiên bản 32-bit.
+Theo Google, so với bản 32-bit, bản 64-bit của Chrome được bổ sung nhiều tính năng bảo mật hơn. Trên một bài đăng blog, hãng nhấn mạnh “Chrome 64-bit đặc biệt hiệu quả trong việc chống lại các lỗ hổng bảo mật dựa trên khả năng kiểm soát và bố trí bộ nhớ của các đối tượng mà nó đang duyệt”.
+Cũng theo Google, các lỗ hổng trên Adobe Flash đang được tin tặc lợi dụng để nhắm vào người dùng nhiều nhất. Tuy nhiên, việc Chrome 64-bit đi kèm Flash 64-bit sẽ giúp người dùng an tâm hơn nhờ cơ chế giảm thiểu các loại hình tấn công, đồng thời tăng hiệu suất ứng dụng nền web.
+Chrome 64-bit còn mang rất nhiều ưu điểm, dù “cha đẻ” của nó không giải thích tất cả với người dùng. Cách đây ít lâu, một bình luận trên trang báo cáo lỗi của Google đã phát hiện Chrome 64-bit có mặt của tính năng cho phép tăng khả năng bảo mật từ bên thứ ba (giống như các trình diệt virus). Tất nhiên, phiên bản 32-bit không có mặt của kỹ thuật tương tự.
+Ngoài ra, một lý do nữa để chọn Chrome 64-bit là bởi nó cho tốc độ nhanh hơn trên các chuẩn web khác nhau. Theo Google, mức ổn định của nó cũng gấp đôi so với phiên bản 32-bit.
+Chrome 64-bit có nhược điểm không?
+Năm 2014, Google đã chỉ ra rằng: “Chrome 64-bit đã gặp phải một vài vấn đề quan trọng, trong đó có việc hỗ trợ trình cắm (plug-in) dùng NPAPI”. Tức là, một số trình cắm dùng Java hoặc tương tự sẽ không hoạt động trên phiên bản trình duyệt này. Tuy nhiên, kể từ Chrome 42, Google đã không còn hỗ trợ bất kỳ trình cắm NPAPI nào nữa, kể cả phiên bản 32-bit lẫn 64-bit.
+Chrome 64-bit không hỗ trợ Windows 32-bit, đó là điều chắc chắn. Đây cũng là hạn chế của trình duyệt, tức bạn phải cài đặt hệ điều hành lên 64-bit mới có thể sử dụng được nó.
+Ngoài ra, việc "ngốn" RAM cũng là nhược điểm "kinh niên" của không chỉ trên Chrome 64-bit mà còn cả 32-bit. Hiện Google vẫn đang nỗ lực nhằm hạn chế điều này.
+ 
+Nếu bạn đang sử dụng bản 64-bit, sẽ có dòng “(64-bit)” đi kèm phiên bản (như trên video). Nếu là phiên bản 32-bit, nó sẽ không hiển thị gì thêm ngoài số phiên bản.
+Với Mac và Linux?
+Với người dùng Mac OS X, kể từ phiên bản 39 (2014), Chrome 64-bit đã được cài mặc định. Như vậy, chỉ cần bạn không dùng máy Mac quá “cổ” thì chắc chắn Chrome trên máy là 64-bit.
+Chrome trên Mac OS X.
+Còn với Linux, do mới ra mắt phiên bản Chrome 64-bit vào đầu tháng 3/2016 nên nếu đang dùng bản 32-bit, hãy vào trang download của Chrome để tải về. Lưu ý, máy của bạn cũng phải cài hệ điều hành Linux 64-bit.
+Bạn có thể quan tâm
+Những chiếc máy nghe nhạc của Apple dù đã ngừng sản xuất vẫn được chào bán trên eBay với giá cao gấp vài lần giá
+Tư vấn
+Chọn mua trên mạng thì giá TV rẻ hơn các siêu thị điện máy đến hơn 2 triệu đồng, nhưng em không biết có ổn không.
+Lợi thế về khẩu độ mở giúp di động của Samsung chụp trong tối tốt hơn và khả năng xóa phông nền mạnh hơn với các bức chụp cận cảnh. 
+Đời sống số
+Vòng đeo tay thông minh từ các thương hiệu nổi tiếng thường có giá cao nên người Việt đang chuyển sang dùng hàng Trung Quốc với nhiều mẫu mã, tính năng và giá bán thấp hơn.
+Trang chủ
+

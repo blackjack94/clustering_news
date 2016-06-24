@@ -1,0 +1,11 @@
+Windows 10 chạy 100% CPU, dẫn tới máy nóng bỏng
+Tôi dùng laptop Acer 4820TG từ khi update lên Windows 10 thì rất hay bị nóng máy, quạt chạy ầm ầm.
+Máy của tôi core i5 đời đầu, RAM 8G, SSD 120GB + HDD 500GB. Tôi có trước có lên Số Hóa hỏi một lần nhưng chưa bác nào tìm ra bệnh. Gần đây tôi phát hiện ra lý do là có một file tên là plugincontainer.exe (32-bit) thường chạy và ngốn đến 70 - 80% CPU. Những lúc thấy quạt quay phù phù, tôi mở Task Manager lên là thấy nó ngay lập tức. End task cái này đi là quạt tắt liền, máy mát trở lại ngay.
+Các cao nhân chỉ giáo giúp đây là cái gì, có phải một dạng virus không và làm thế nào để xử lý triệt để nó. Cảm ơn rất nhiều.
+Tin Khác
+Đời sống số
+Vòng đeo tay thông minh từ các thương hiệu nổi tiếng thường có giá cao nên người Việt đang chuyển sang dùng hàng Trung Quốc với nhiều mẫu mã, tính năng và giá bán thấp hơn.
+Những chiếc máy nghe nhạc của Apple dù đã ngừng sản xuất vẫn được chào bán trên eBay với giá cao gấp vài lần giá
+Lợi thế về khẩu độ mở giúp di động của Samsung chụp trong tối tốt hơn và khả năng xóa phông nền mạnh hơn với các bức chụp cận cảnh. 
+Trang chủ
+

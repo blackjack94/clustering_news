@@ -1,0 +1,23 @@
+Thảm kịch nếu IS đánh sập Internet toàn cầu
+Một kịch bản thảm khốc được vẽ ra nếu những kẻ khủng bố đánh vào mạng Internet trên thế giới, khiến hầu hết các dịch vụ thiết yếu đều bị ảnh hưởng.
+IS âm mưu đánh sập Internet toàn cầu  /  Hàng trăm triệu smartphone được huy động tấn công Internet
+Nhà nước Hồi giáo tự xưng (IS) được cho là đứng sau vụ tấn công làm gián đoạn mạng Internet toàn cầu hồi đầu tháng 12. Theo chuyên gia bảo mật John McAfee, ứng dụng mà những kẻ khủng bố xây dựng chính là nguồn gốc của các vụ tấn công từ chối dịch vụ DDoS.
+IS có thể tạo ra mạng lưới máy tính ma với quy mô lớn, đánh vào các dịch vụ lõi của mạng Internet. Ảnh minh họa.
+Các nhà nghiên cứu cho biết, IS đã xây dựng một phần mềm cho smartphone nhằm tạo ra mạng lưới máy tính ma (botnet), "đánh" vào các máy chủ quản lý tên miền ở mức cao nhất (root name server). "Chúng tôi tìm thấy địa chỉ của 13 máy chủ tên miền gốc bên trong ứng dụng. Các địa chỉ này không xuất hiện theo cách thông thường mà mã hóa trong quá trình chạy. Tại sao phải làm vậy, trừ khi có âm mưu nào được che giấu đăng sau", John McAfee nhận định.
+Còn theo John Cassaretto, nhà sáng lập trang bảo mật BlackCert, nếu IS đứng sau mạng lưới botnet, những cuộc tấn công vào root name server mới chỉ là đợt sóng đầu tiên. Báo cáo sự cố từ Root-servers.org không đưa ra suy đoán về nguồn gốc của cuộc tấn công DDoS, các cuộc điều tra chính thức đang được tiến hành.
+Máy chủ tên miền gốc Verisign đã đăng bài viết đưa ra nhận định của mình về cuộc tấn công, cùng video mà họ tuyên bố có thể là bằng chứng cho thấy địa chỉ nguồn đã bị giả mạo. Trong khi đó McAfee cho rằng, đây không phải bằng chứng cho thấy địa chỉ IP là không có thật. Công ty bảo mật này cho rằng, Verisign đang cố gắng trấn an và làm tăng niềm tin của mọi người về máy chủ tên miền gốc.
+Đồ họa cho thấy lưu lượng truy cập vào máy chủ gốc của Verisign tăng cao đột biến ngày 30/11 và 01/12.
+Ngoài cuộc chiến ngoài thực địa, an ninh mạng đang trở thành mối quan tâm của cơ quan chức năng trước những kẻ khủng bố. Nhà tư vấn chiến lược kỹ thuật số Lars Hilse cho rằng những lỗ hổng trong cơ sở hạ tầng mạng của phương Tây có thể trở thành mục tiêu của IS. Báo cáo khác của Kronos Advisory nhận định, IS đang có trong tay những tin tặc "lành nghề".
+Nếu một cuộc tấn công đủ lớn nhằm vào máy chủ tên miền gốc xảy ra, nó có thể khiến hàng nghìn máy chủ thứ cấp trên toàn thế giới bị ngừng trệ. Chuyên gia an ninh Eddie Mize cho rằng hậu quả của nó sẽ rất thảm khốc.
+Vị này đặt ra giả thuyết những gì sẽ xảy ra nếu Internet toàn cầu bị "ngắt điện". Rõ ràng các quốc gia, đặc biệt là phương Tây, đang phụ thuộc rất nhiều vào mạng toàn cầu. Hầu hết mọi dịch vụ từ du lịch, hàng không tới các tiện ích công đều bị ảnh hưởng. Theo Mize, một cuộc tấn công gây hậu quả nặng nề cho hệ thống phân giải tên miền (DNS) sẽ xảy ra nếu số lượng thiết bị di động được huy động đủ lớn.
+"Hãy tưởng tượng nếu Internet bị mất trong vài ngày, tôi tin rằng chúng ta sẽ thấy cả điện lưới hay các dịch vụ khẩn cấp cũng có thể ngừng trệ", Mize nói. "Điều này sẽ ảnh hưởng đến việc kiểm soát nước của các đập xả lũ, điện, nước hay đường ống dẫn khí... đều gặp khó khăn trong vấn đề điều phối".
+"Đáng báo động nhất là ngành tài chính ngân hàng. Tôi nghĩ rằng nếu Internet bị sập trong khoảng 2 tuần đủ gây ra gián đoạn cho các tổ chức tài chính, người dùng mất niềm tin và có thể tạo nên thảm họa cho toàn thị trường. Những tác động này có thể gây phản ứng theo dây chuyền, đưa cả thế giới vào tình trạng hỗn loạn", chuyên gia an ninh nhấn mạnh.
+Xem nhiều nhất
+Tin Khác
+Những chiếc máy nghe nhạc của Apple dù đã ngừng sản xuất vẫn được chào bán trên eBay với giá cao gấp vài lần giá
+Lợi thế về khẩu độ mở giúp di động của Samsung chụp trong tối tốt hơn và khả năng xóa phông nền mạnh hơn với các bức chụp cận cảnh. 
+Cài đặt chữ ngược, tắt thông báo Facebook trên Chrome... hay cài đặt thừa kế tài khoản sau khi qua đời là những tính năng hay trên Facebook mà nhiều người chưa biết.
+Tư vấn
+Chọn mua trên mạng thì giá TV rẻ hơn các siêu thị điện máy đến hơn 2 triệu đồng, nhưng em không biết có ổn không.
+Trang chủ
+

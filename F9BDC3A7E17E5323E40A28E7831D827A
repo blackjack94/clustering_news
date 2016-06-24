@@ -1,0 +1,16 @@
+Đáp số bài toán 'tìm số bạn trai trên bàn tròn'
+Có 13 bạn nhỏ ngồi quanh một bàn tròn. Họ thỏa thuận với nhau là hai bạn khác giới sẽ nói dối nhau, còn hai bạn cùng giới sẽ nói thật.
+Một bạn nói với bạn bên phải mình "Đa số trong chúng ta là con trai", bạn này lại nói với bạn bên phải của mình "Đa số trong chúng ta là con gái", bạn kế tiếp lại nói với bạn bên phải của mình "Đa số trong chúng ta là con trai", bạn này lại nói với bạn bên phải mình "Đa số trong chúng ta là con gái" ... cho đến bạn cuối cùng nói với bạn đầu tiên "Đa số trong chúng ta là con trai".
+Giải:
+Có 7 bạn nói câu “Đa số chúng ta là con trai” và 6 bạn nói “Đa số chúng ta là con gái”. Do đó sẽ có ít nhất 6 cặp khác giới kề nhau, nhưng cũng có ít nhất 6 cặp cùng giới kề nhau.
+Hai người kề nhau nói các mệnh đề khác nhau, trừ bạn đầu tiên và bạn cuối cùng. Ta thấy trừ các vị trí 13, 1, 2, ở các vị trí khác, không thể có 3 người cùng giới kề nhau, vì ví dụ nếu có Nam 1, Nam 2, Nam 3 kề nhau thì Nam 1 và Nam 2 nói ngược nhau, mặc dù về nguyên tắc họ phải nó thật.
+Vì phải có ít nhất 6 cặp cùng giới kề nhau nên từ đây suy ra cách sắp duy nhất thỏa mãn yêu cầu là Nam, Nam, Nữ, Nữ, Nam, Nam, Nữ, Nữ, Nam, Nam, Nữ, Nữ, Nam.
+TS Trần Nam Dũng
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

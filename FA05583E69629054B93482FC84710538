@@ -1,0 +1,20 @@
+Đáp án bài toán 'đếm số hình bình hành'
+Các cạnh của một tam giác đều được chia thành 8 phần bằng nhau bởi 7 điểm. Sau đó các điểm chia đó được nối lại tạo thành một lưới như hình vẽ.
+ 
+Đáp án:
+Bài toán đếm với những con số cụ thể như thế này thì kiểu gì cũng đếm được, chỉ là lâu và dễ sai thôi. Dưới đây chúng ta đưa ra một cách đếm nhanh và chính xác dựa vào một số lý luận đơn giản và quan trọng nhất là một cách “biểu diễn” hình bình hành bằng các bộ số.
+Trước hết ta nhận xét rằng có 3 loại hình bình hành, tương ứng với cách chọn phương của hai cạnh. Và 3 loại này có số lượng bằng nhau, do tính đối xứng. Vì vậy ta chỉ cần đếm số hình hình hành có cạnh song song với hai cạnh bên rồi nhân với 3 là xong.
+ 
+Ta vẽ thêm một đường thẳng song song với cạnh đáy và cách cạnh đánh một khoảng bằng khoảng cách giữa hai đường thẳng song song kề nhau, tạo thành một tam giác đều mở rộng như hình vẽ. Ta chia cạnh mới thành 9 phần bằng nhau bởi 8 điểm, cộng thêm hai đầu mút nữa là 10. Các điểm được đánh số từ trái sang phải từ 1 đến 10.
+Khi đó với 1 hình bình hành có hai cạnh song song với hai cạnh bên, ta cho tương ứng với 4 số 1 ≤ a < b < c < d ≤ 10 theo quy tắc sau: nối dài các cạnh của hình bình hành, cắt các cạnh mới tại 4 điểm có số thứ tự là a, b, c, d. Ví dụ với hình bình hành màu đỏ trên hình ta có bộ số (2, 5, 7, 9). Ngược lại, nếu có một bộ số 1 ≤ a < b < c < d ≤ 10 ta sẽ kẻ các đường thẳng từ điểm a, b song song với cạnh bên trái và từ c, d song song với cạnh bên phải giao nhau ra một hình bình hành.
+Như thế, số cách hình bình hành loại này bằng số cách chọn ra 4 số phân biệt (a, b, c, d) từ 10 số, và như thế bằng 
+ 
+TS Trần Nam Dũng
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

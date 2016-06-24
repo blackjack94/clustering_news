@@ -1,0 +1,24 @@
+Đáp án bài toán 'Người cuối cùng lái xuồng qua sông'
+Đề bài:
+Hai phụ nữ (Amy và Beatrice) và ba người đàn ông (Charles, Dennis và Ethan) cần đi qua một con sông trên một chiếc xuồng nhỏ chỉ chở được tối đa 2 người.
+Họ muốn qua sông với số lần qua lại ít nhất. Mỗi lần qua sông, chỉ có một người lái xuồng. Hai người phụ nữ yêu cầu rằng không để một người phụ nữ nào ở một mình với một người đàn ông hoặc nhiều người đàn ông trong mọi thời điểm.
+Những người đàn ông yêu cầu rằng không có ai lái xuồng trong cả hai lần qua - về hoặc về - qua liên tiếp.
+Trong số những người sẽ lái xuồng khi qua sông một mình, Charles là người đầu tiên, Dennis là người thứ hai còn Ethan là người thứ ba.
+Đáp án:
+Vì mỗi một chuyến, trừ chuyến đầu chỉ mang sang thêm được một người nên cần ít nhất 4 chuyến. Ta thấy phương án chung để cả 5 người cùng sang phải là: Đầu tiên có 2 người sang, 1 người về đón (Charles), tiếp theo có 2 người sang, 1 người về đón (Dennis), tiếp theo có 2 người sang, 1 người về đón (Ethan), 2 người cùng sang.
+Vì hai người phụ nữ không ở riêng với 1 hoặc nhiều người đàn ông nên khi họ đi qua sông, họ phải đi cùng với nhau (cũng tức là họ không phải người lái thuyền về). Và chuyến đi chung của hai phụ nữ không thể là chuyến đi đầu tiên. Do đó chuyến đi đầu sẽ là hai người đàn ông. Và đó phải là Charles và Dennis (để sẽ về đón người sang, theo các điều). Vì mỗi 1 chuyến, trừ chuyến đầu chỉ mang sang thêm được 1 người nên cần ít nhất 4 chuyến.
+Phương án như sau:
+- Chuyến 1: Charles và Dennis (lái xuồng), Charles về.
+- Chuyến 2: Amy và Beatrice, Dennis về
+- Chuyến 3: Charles (lái xuồng) và Ethan, Ethan về
+- Chuyến 4: Ethan và Dennis (lái xuồng).
+Chú ý ở chuyến 3 không thể cho Dennis sang lại cùng Ethan vì lúc đó sẽ không có ai lái xuồng (Dennis vừa lái chuyến về ở chuyến 2 còn Ethan sẽ lái về ở chuyến 3).
+TS Trần Nam Dũng
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

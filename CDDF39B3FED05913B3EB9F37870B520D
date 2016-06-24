@@ -1,0 +1,16 @@
+iPhone bị nhiễm mã độc, trộm Apple ID cả khi không jailbreak
+Trojan có tên AceDeceiver có thể lây nhiễm trên mọi thiết bị iOS và ăn cắp Apple ID dù máy chưa hề bị bẻ khóa (jailbreak).
+Công ty bảo mật Palo Alto Networks đã phát hiện một loại tấn công mới trên các thiết bị chạy hệ điều hành Apple iOS. Bằng cách khai thác lỗ hổng trong cơ chế bảo vệ tác quyền số FairPlay DRM của Apple, mã độc có thể thâm nhập vào bất kỳ chiếc iPhone nào.
+Lỗ hổng trong FairPlay DRM đã được nhiều người khai thác từ năm 2013 để cài ứng dụng iOS lậu, nhưng hiện bị lợi dụng để phát tán virus. Hacker sẽ cài phần mềm độc hại trên máy tính của người dùng, sau đó tấn công những thiết bị di động kết nối với máy đó, âm thầm cài đặt ba ứng dụng wallpaper chứa mã độc AceDeceiver trên App Store vào điện thoại, máy tính bảng mà người sử dụng không hay biết, đồng thời ăn cắp Apple ID và mật khẩu của họ.
+Người dùng có thể mua ứng dụng iOS từ iTunes trên máy tính và Apple sẽ cấp mã xác thực để chứng minh ứng dụng đó đúng là đã được mua bằng iTunes (hàng một). Tuy nhiên, hacker có thể can thiệp vào giữa quy trình này để bằng cách khai thác lỗi FairPlay để âm thầm tải mã độc vào iPhone, iPad (hàng hai).
+Đây là một trong những Trojan đầu tiên có thể tấn công iPhone dù máy không bị jailbreak. Palo Alto Networks đã gửi cảnh báo về AceDeceiver tới Apple hồi cuối tháng 2 và hãng này đã loại bỏ ba ứng dụng liên quan trên App Store.
+Hiện chưa rõ có bao nhiêu người bị ảnh hưởng bởi AceDeceiver, tuy nhiên mã độc này mới chỉ được phát hiện ở Trung Quốc. Dù vậy các chuyên gia bảo mật tin rằng loại hình tấn công này có thể lan sang nhiều khu vực khác.
+Xem nhiều nhất
+Tin Khác
+Những chiếc máy nghe nhạc của Apple dù đã ngừng sản xuất vẫn được chào bán trên eBay với giá cao gấp vài lần giá
+Lợi thế về khẩu độ mở giúp di động của Samsung chụp trong tối tốt hơn và khả năng xóa phông nền mạnh hơn với các bức chụp cận cảnh. 
+Cài đặt chữ ngược, tắt thông báo Facebook trên Chrome... hay cài đặt thừa kế tài khoản sau khi qua đời là những tính năng hay trên Facebook mà nhiều người chưa biết.
+Tư vấn
+Chọn mua trên mạng thì giá TV rẻ hơn các siêu thị điện máy đến hơn 2 triệu đồng, nhưng em không biết có ổn không.
+Trang chủ
+

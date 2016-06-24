@@ -1,0 +1,14 @@
+Đáp án bài toán 'đếm số tam giác'
+Có thể xếp được 50 tam giác từ 10 đoạn thẳng có độ dài tương ứng từ 1 đến 10 đơn vị.
+An có 10 đoạn thẳng có độ dài 1, 2, …, 10 đơn vị độ dài tương ứng. Hỏi có bao nhiêu cách khác nhau để chọn ra ba đoạn thẳng có thể tạo thành một tam giác.
+Đáp án:
+Điều mấu chốt ở đây là bất đẳng thức tam giác (tổng hai cạnh bất kỳ lớn hơn cạnh thứ ba). Nếu ba cạnh là x, y, z với 1 ≤ x < y < z ≤ 10, ta phải có x + y > z. Bây giờ nếu đặt N(t) là số các tam giác như thế với x = t thì ta có N(1) = 0, N(2) = 7, N(3) = 11, N(4) = 12, N(5) = 10, N(6) = 6, N(7) = 3, N(8) = 1, và N(9) = N(10) = 0. Từ đó tổng số tam giác là 50.
+TS Trần Nam Dũng
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

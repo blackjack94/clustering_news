@@ -1,0 +1,100 @@
+Đề xuất quy trình tuyển sinh đại học nhanh gọn
+Độc giả Nguyễn Đức Hạnh đã nghiên cứu kỹ kỳ thi THPT quốc gia 2015 và đề xuất một quy trình tuyển sinh hoàn thiện, từ khâu chuẩn bị, công bố điểm thi đến xét tuyển và xử lý kết quả xét tuyển.
+TS Lương Hoài Nam đề xuất dùng thuật toán tuyển sinh
+Tôi ủng hộ hoàn toàn việc gộp hai kỳ thi. Bộ Giáo dục và Đào tạo đã có khả năng tổ chức tốt một kỳ thi thống nhất trên toàn quốc một cách nghiêm túc, nhưng việc xét tuyển thì quá dở. Nếu biết cách áp dụng công nghệ thông tin vào công tác tuyển sinh thì kỳ tuyển sinh 2015 thành công tốt đẹp, để lại dấu ấn trong lịch sử giáo dục Việt Nam.
+Bộ Giáo dục và Đào tạo đã tổ chức các hội thảo khoa học tìm phương án cải tiến tuyển sinh, nhưng các phương án đưa ra như "dùng dao mổ trâu mà đi mổ gà", cuối cùng con gà nát. Bộ phận xây dựng phần mềm không có kinh nghiệm về tuyển sinh, phần mềm không được kiểm chứng và điều chỉnh chu đáo trước kỳ thi.
+Việc đánh giá thí sinh dựa vào bài thi kiểm tra kiến thức là rất đúng. Nguyện vọng của các thí sinh nên coi trọng nhưng hợp lý, không vì điểm số mà coi thường nguyện vọng của mình, vào đại học bằng mọi cách, không cần biết là vào trường nào, vào ngành nào, có phù hợp với bản thân hay không, làm mất cơ hội cho các thí sinh khác. Điều này không được đảm bảo trong kỳ xét tuyển vừa qua.
+Thật ra việc này theo tôi không phức tạp như vậy. Tiêu chí tuyển sinh nên là:
+Đối với thí sinh: Giả sử trong n ngành thích mà thí sinh trúng tuyển m ngành thì tuyển vào ngành thích nhất trong m ngành đó.
+Đối với các ngành: Trong tất cả thí sinh thích vào ngành mình nhất, tuyển hết từ cao xuống thấp, khi nào đủ chỉ tiêu hoặc không còn thí sinh đủ tiêu chuẩn.
+TS Lương Hoài Nam đề xuất thuật toán tuyển sinh dựa trên thuật toán "Hôn nhân ổn định" (Stable Marriage) do Gale và Shapley (Mỹ) đưa ra vào năm 1962. Nhưng tôi có thuật toán mà tôi nghĩ là đơn giản hơn, sẽ trình bày dưới đây để mọi người đánh giá.
+Trước kỳ thi THPT quốc gia được Bộ Giáo dục và Đào tạo tổ chức hàng năm cần tiến hành những bước sau:
+1. Các ngành đưa ra yêu cầu và chỉ tiêu của mình (tổ hợp xét tuyển, năng khiếu, khống chế, ưu tiên, đặc cách, số lượng...) trên phương tiện thông tin đại chúng. Ngành nào có 2, 3 tổ hợp xét tuyển thì phân ra 2, 3 ngành riêng để cho dễ xét tuyển. Sẽ có khoảng 2.000 ngành và 50 tổ hợp xét tuyển.
+2. Tổ chức thi các môn năng khiếu, sơ tuyển... và gửi kết quả cho các thí sinh dự thi cũng như các Sở Giáo dục địa phương, sau đó gửi lên Bộ Giáo dục và vào bảng thống kê.
+3. Bộ Giáo dục công bố điểm ưu tiên cho các thí sinh chính sách và khu vực. Theo tôi chỉ nên cộng thêm bốn mức: 0,25; 0,50; 0,75 và cao nhất là 1 điểm. Các Sở Giáo dục gửi lên Bộ và vào bảng thống kê.
+4. Bộ Giáo dục công bố xét đặc cách. Các Sở Giáo dục gửi lên Bộ và vào bảng thống kê.
+5. Các Sở thống kê điểm học bạ và hạnh kiểm ba năm THPT và gửi lên Bộ. Để phân biệt các thí sinh cùng điểm số, sẽ dùng điểm học bạ và hạnh kiểm làm chỉ số phụ.
+6. Các thí sinh gửi số điện thoại và E-Mail.
+7. Các thí sinh gửi danh sách nguyện vọng của mình theo thứ tự ưu tiên từ thích nhất (cho dù cơ hội trúng tuyển thấp) đến ít thích hơn, bao nhiêu cũng được và sẽ được vào học đúng ngành mình thích nhất trong tất cả ngành mình có khả năng trúng tuyển.
+Lưu ý: Thứ tự nguyện vọng không làm mất khả năng trúng tuyển mà chỉ làm mất cơ hội đi học theo ngành mình thích mà mình vẫn có khả năng nhưng không dám để trước ngành mà sau này mình trúng tuyển.
+Ví dụ: Một thí sinh rất thích Đa khoa Y Hà Nội nhưng sợ mình không trúng tuyển nên đặt Đa khoa Y Hà Nội sau Đa khoa Y Thái Bình vì sợ nếu đặt ngược lại thì lỡ cơ hội vào Đa khoa Y Thái Bình. Thí sinh đó không cần sợ như vậy vì phần mềm đang nói đây sẽ không làm vậy. Khi xem thuật toán lọc đơn giản sau thì mọi người sẽ hiểu.
+8. Bộ Giáo dục lập một bảng thống kê như sau:
+*Từ hàng 1 đến 1.000.001 là tên của các thí sinh (giả sử có 1 triệu thí sinh).
+*Cột 1 là số thứ tự của Bộ (từ 0.000.001 đến 1.000.001).
+*Cột 3 là tên thí sinh.
+*Cột 4 là ngày tháng năm sinh của thí sinh.
+*Cột 5 là nơi học năm lớp 12 của thí sinh.
+*Cột 6 là số điện thoại của thí sinh.
+*Cột 7 là E-Mail của thí sinh.
+*Cột 8 là điểm ưu tiên (do hội đồng của Bộ quyết, theo tôi nhiều nhất là 1 điểm như trên đã nói).
+*Cột 9 là tổng điểm học bạ ba năm THPT, được điểm số hóa cho việc phân loại chỉ số phụ (do một hội đồng của Bộ quyết, sao cho nó không tác động chính vào điểm xét tuyển nhưng có khả năng phân loại giữa các thí sinh cùng điểm thi, chẳng hạn tổng điểm học bạ 3 năm là 25 điểm sẽ thành 1% x25=0,25 điểm xét tuyển).
+*Cột 10 là tổng điểm hạnh kiểm ba năm THPT, được điểm số hóa cho việc phân loại chỉ số phụ (do một hội đồng của Bộ quyết, sao cho nó không tác động chính vào điểm xét tuyển nhưng có khả năng phân loại giữa các thí sinh cùng điểm thi, cùng điểm học bạ, chẳng hạn 2 tốt, 1 khá sẽ thành 4% x 2(tốt)+1%x1(khá)=0,09 điểm xét tuyển).
+*Cột 11 là điểm sơ tuyển (ví dụ ngành Công an), đã được điểm số hóa. Thí sinh nào không qua sơ tuyển ngành này thì mặc định điểm này = 0.
+*Các cột tiếp theo là các điểm sơ tuyển (của các ngành khác, nếu có), đã được điểm số hóa.
+*Các cột tiếp theo là điểm năng khiếu. Thí sinh nào không thi năng khiếu thì mặc định điểm này = 0.
+*Các cột tiếp theo là điểm đặc cách.
+*Cột tiếp theo là điểm thi Toán, tạm thời để trống.
+*Cột tiếp theo là điểm thi Lý, tạm thời để trống.
+*Cột tiếp theo là điểm thi Hóa, tạm thời để trống.
+*Cột tiếp theo là điểm thi Văn, tạm thời để trống.
+*Cột tiếp theo là điểm thi Sử, tạm thời để trống.
+*Cột tiếp theo là điểm thi Địa, tạm thời để trống.
+*Cột tiếp theo là điểm thi Sinh, tạm thời để trống.
+*Cột tiếp theo là điểm thi Anh, tạm thời để trống.
+*Cột tiếp theo là điểm thi Pháp, tạm thời để trống.
+*Cột tiếp theo là điểm thi Đức, tạm thời để trống.
+*Cột tiếp theo là điểm thi Trung, tạm thời để trống.
+*Cột tiếp theo là điểm thi Nhật, tạm thời để trống.
+*Cột tiếp theo là điểm xét tuyển Tổ hợp 1 (bao gồm điểm thi, điểm ưu tiên, điểm đặc cách, điểm năng khiếu, điểm học bạ, hạnh kiểm đã điểm số hóa...) , tạm thời để trống.
+*Cột tiếp theo là điểm xét tuyển Tổ hợp 2 (bao gồm điểm thi, điểm ưu tiên, điểm đặc cách, điểm năng khiếu, điểm học bạ, hạnh kiểm đã điểm số hóa...) , tạm thời để trống.
+*Cột tiếp theo là điểm xét tuyển Tổ hợp cuối thứ x chẳng hạn, khoảng 50 tổ hợp (bao gồm điểm thi, điểm ưu tiên, điểm đặc cách, điểm năng khiếu, điểm học bạ, hạnh kiểm đã điểm số hóa...), tạm thời để trống.
+*Cột tiếp theo là Nguyện vọng 1 của thí sinh (ví dụ Đa khoa Y Hà Nội).
+*Cột tiếp theo là Nguyện vọng 2 của thí sinh (ví dụ Cơ - Điện tử, Bách khoa HCM).
+* Cột tiếp theo là Nguyện vọng cuối của thí sinh, thứ n (ví dụ ngành mầm non, Cao đẳng Sư phạm Hồ Chí Minh).
+Yêu cầu các bộ phận thu thập thông tin phải thật chính xác, trung thực, phải có các phần mềm kiểm tra sự chính xác này, có sự kiểm tra chéo... để sao cho bảng thống kê trên đầy đủ, chính xác và trung thực.
+Công khai bảng thống kê này lên các phương tiện thông tin đại chúng để các thí sinh và phụ huynh cũng như nhân dân được biết. Nếu có phản hồi về sai sót thì kiểm tra, cập nhật và giải quyết ngay. Nếu có sự man trá gì thì nhân dân sẽ phát hiện ra. Thiết lập đường dây nóng nhận phản hồi.
+Sau kỳ thi THTP quốc gia được Bộ Giáo dục và Đào tạo tổ chức hàng năm:
+Sau khi có kết quả chấm thi, Bộ cập nhật điểm vào các cột Toán, Lý, Hóa..., Nhật. 
+*Gửi E-Mail cho các Sở danh sách điểm thí sinh do Sở quản lý. Yêu cầu các Sở up load lên trang web của mình.
+*Gửi tin nhắn báo điểm cho thí sinh theo cột 6.
+*Gửi E-Mail báo điểm cho thí sinh theo cột 7.
+*Up load kết quả thi lên trang web của Bộ.
+Để tránh nghẽn mạng, làm việc trước với các nhà mạng hoặc gửi thành nhiều đợt, có thông báo trước.
+*Thông báo trên các phương tiện thông tin đại chúng phổ điểm các môn...
+*Phúc khảo và chờ kết quả phúc khảo.
+Sau khi có kết quả phúc khảo, cập nhật các thay đổi, có thông báo lại cho những người liên quan và công khai trên phương tiện thông tin đại chúng.
+Máy tính sẽ tính được các điểm xét tuyển của từng tổ hợp và ghi vào các cột điểm xét tuyển Tổ hợp đó.
+Xét tuyển: Máy tính xét nhiều đợt.
+Đợt 1: Gồm x bước, x là số các tổ hợp xét tuyển, khoảng 50.
+*Bước 1: Xét tuyển tổ hợp 1. Lấy từ cao xuống thấp. Đến một điểm nào đó sẽ có một số thí sinh nào đó có số điểm như vậy. Xét từng thí sinh một. Với số điểm đó và tổ hợp xét tuyển đó, thí sinh đỗ ngành nào (ngành xét điểm tổ hợp đang xét và chưa đủ chỉ tiêu) thì đánh dấu lại và tạm gửi vào danh sách trúng tuyển của ngành đó. Giữ lại nguyện vọng cao nhất đã được đánh dấu. Các nguyện vọng sau bỏ đi hết, kể cả nguyện vọng thấp hơn đã trúng tuyển và xóa luôn tên thí sinh đó vào nơi mà đã trúng tuyển tạm thời ở nguyện vọng thấp hơn. Chỉ giữ lại nguyện vọng cao nhất đã trúng. Khi điểm xét tuyển dưới điểm sàn thì dừng lại.
+Qua bước này sẽ có một số thí sinh trúng tuyển tạm thời và một số nguyện vọng đã được xóa.
+*Bước 2: Xét tuyển tổ hợp 2. Làm y như xét tuyển tổ hợp 1.
+*Bước cuối x: Xét tuyển tổ hợp cuối, tổ hợp x (có tổng cộng x tổ hợp xét tuyển, khoảng 50). Làm y như xét tuyển tổ hợp 1.
+Kết thúc đợt 1.
+Như vậy sau đợt 1 sẽ có nhiều thí sinh trúng tuyển tạm thời và nhiều nguyện vọng đã được xóa. Lúc này tổng số các nguyện vọng đã được xóa chắc chắn>0, xét tuyển tiếp đợt 2.
+Đợt 2: Làm y như đợt 1.
+Sau đợt này, nếu tổng số nguyện vọng đã được xóa vẫn còn >0 thì xét tuyển tiếp đợt nữa cho đến khi kết thúc đợt đó mà tổng số các nguyện vọng đã được xóa =0 thì kết thúc tuyển. Đây chính là kết quả xét tuyển.
+Bây giờ ô đánh dấu là nơi thí sinh trúng tuyển với nguyện vọng cao nhất của mình. Các ô trước đó tuy thích hơn nhưng thí sinh đó không thể trúng vì yêu cầu xét tuyển cao hơn, còn các nguyện vọng sau thì không thích bằng nguyện vọng đã trúng, thỏa mãn tiêu chí tuyển sinh.
+Các ngành cũng đã có danh sách sinh viên mới của mình. Ngoài các thí sinh đã có trong danh sách, ngành sẽ không thể tuyển thêm được một thí sinh nào có điểm cao hơn thí sinh đứng cuối bảng. Các thí sinh có điểm cao hơn trong tổ hợp xét tuyển đều không thích ngành này bằng ngành mà thí sinh đó đã trúng tuyển. Thỏa mãn tiêu chí tuyển sinh.
+Xử lý kết quả xét tuyển:
+*Gửi E-Mail cho các trường danh sách trúng tuyển của các ngành trong trường. Yêu cầu các trường up load lên trang web của mình.
+*Gửi E-Mail cho các Sở danh sách trúng tuyển của các thí sinh do Sở quản lý. Yêu cầu các Sở up load lên trang web của mình.
+*Gửi tin nhắn cho thí sinh theo cột 6.
+*Gửi E-Mail cho thí sinh theo cột 7.
+Để tránh nghẽn mạng, làm việc trước với các nhà mạng hoặc gửi thành nhiều đợt, có thông báo trước.
+*Up load lên trang web của Bộ.
+Sau đó đích thân Cục trưởng Khảo thí trả lời trực tuyến hoặc thiết lập đường dây nóng để xử lý sai sót nếu có. Nhưng trước tiên cần chạy Demo chương trình này, kiểm chứng và điều chỉnh chu đáo trước kỳ thi.
+Ưu điểm:
+*Thí sinh không phải đi nộp, rút hồ sơ, không tốn tiền và thời gian đi lại.
+*Không nghẽn mạng, không mất thời gian lên mạng và chờ đợi.
+*Biết kết quả ngay sau khi Bộ hoàn tất bảng thống kê. Tuyển sinh rất nhanh, có thể kết thúc toàn bộ phần xét tuyển vào ngày 20/8 hàng năm.
+*Bộ trưởng không còn phải xin lỗi dân nữa, mà còn được lòng dân.
+*Đặc biệt: Phần mềm trên có thể áp dụng cho tuyển sinh vào lớp 6 và lớp 10 của các Sở Giáo dục.
+Ngày cuối cùng của đợt 1 đăng ký xét tuyển đại học
+Xem nhiều nhất
+Tin khác
+Từ bài viết “Bài toán lớp 7 khiến phụ huynh, học sinh thắc mắc”, hàng nghìn độc gia tham gia tranh luận và đưa ra những lý lẽ của mình.
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Trang chủ
+

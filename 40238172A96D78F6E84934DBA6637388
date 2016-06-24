@@ -1,0 +1,17 @@
+Đáp án bài toán 'cầu thủ bóng đá chơi bóng bàn'
+Kết quả là Tuấn Anh thắng 0 trận, Thanh Bình thắng 6 trận, Minh Châu, Hữu Dũng và Tài Em mỗi cầu thủ thắng 8 trận.
+Tuấn Anh, Thanh Bình, Minh Châu, Hữu Dũng và Tài Em cùng thi đấu bóng bàn với thể thức như sau: mỗi cặp sẽ thi đấu với một cặp khác đúng một trận. Kết quả Tuấn Anh thua tổng cộng 12 trận còn Thanh Bình thua tổng cộng 6 trận. Hỏi mỗi cầu thủ thắng mấy trận?
+Đáp án:
+Bài toán này thú vị ở chỗ ban đầu ta có cảm giác là khá thiếu dữ kiện để giải. Nhưng ta hãy xem xét kỹ hơn một chút. Trước hết ta nhận thấy có tổng cộng 15 trận đấu (có 10 cách chọn cặp đầu tiên, 3 cách chọn cặp thứ hai nhưng do thứ tự chọn không quan trọng nên số trận đấu là 10 x 3 : 2 = 15).
+Theo luật chơi thì Tuấn Anh sẽ đấu tất cả 12 trận. Cụ thể, Tuấn Anh sẽ cùng với Thanh Bình đấu với 3 cặp (Minh Châu, Hữu Dũng), (Minh Châu, Tài Em) và (Hữu Dũng, Tài Em). Tương tự, Tuấn Anh cùng Minh Châu đấu 3 cặp, cùng Hữu Dũng đấu 3 cặp và cùng Tài Em đấu 3 cặp.
+Theo đề bài, cả 12 trận này đều có kết quả thua. Thanh Bình thua 6 trận trong đó đã có 3 trận thua khi đánh cặp cùng Tuấn Anh, trong khi đó các trận Thanh Bình cùng ai đó đánh với cặp khác có Tuấn Anh thì Thanh Bình thắng. Như vậy 3 trận thua còn lại của Thanh Bình chính là trong 3 trận đấu không có Tuấn Anh tham gia. Như thế ta biết kết quả của tất cả các trận đấu, từ đó có thể suy ra số trận thắng của mỗi cầu thủ.
+Chẳng hạn Minh Châu sẽ thua cả 3 trận khi đánh cặp với Tuấn Anh và thua thêm 1 trận khi đánh cặp với Thanh Bình chống cặp Hữu Dũng và Tài Em, còn lại là thắng. Kết quả: Tuấn Anh thắng 0 trận, Thanh Bình thắng 6 trận, Minh Châu, Hữu Dũng và Tài Em mỗi cầu thủ thắng 8 trận.
+TS Trần Nam Dũng
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

@@ -1,0 +1,22 @@
+Đáp án bài toán ngôn ngữ trong cuộc thi Lomonosop 2015
+Bạn đọc Phong Quach đã giải đúng với đáp án là 1.
+Ngôn ngữ và toán học có rất nhiều điểm chung, trong đó có tính logic, tính quy luật và tính cấu trúc. Những người giỏi toán thường nắm bắt một ngôn ngữ mới rất nhanh. Bài toán sau đây được ra trong đề thi môn ngôn ngữ của cuộc thi Lomonosop 2015.
+Cho biết một số số viết theo chữ số Ả-rập ở cột bên trái và cũng những số này bằng tiếng Tamil ở cột bên phải (nhưng không đúng thứ tự). 
+Giải:
+Để tiện trình bày, ta thay ký tự Tamil bằng các chữ cái Latin theo thứ tự từ trên xuống dưới như sau (các ký tự giống nhau được thay bằng các chữ cái giống nhau):
+ABC, DB, EFFC, GC, FFFC, HFC, IF, JBFFC, KBFC.
+Ta nhận xét ngay rằng các ký tự xuất hiện nhiều lần đại diện cho các thứ nguyên, ở đây tức là B, C, F. Các ký tự chỉ xuất hiện ở đầu như A, D, E, G, H, I, J, K là các chữ số chỉ đơn vị.
+Số FFFC bắt đầu bằng một thứ nguyên do đó phải là 1.000.000.000 (1 tỷ). Từ đó có thể luận ra là F = 100 và C = 1.000. Và cũng từ đó B = 10. Từ đây dễ dàng tìm ra thứ tự các số ứng với cột chữ Tamil lần lượt là: 60.000, 90, 30.000.000, 7.000, 1.000.000.000, 500.000
+7 x 11 x 13 = 1.001
+Phép tính cuối ta để ý có xuất hiện ký tự mới mà cột số ở trên chưa có. Có thể dễ dàng thấy chỉ có chữ số 1 là chưa xuất hiện nên đó phải là chữ số 1.
+Ngôn ngữ Tamil thuộc họ ngôn ngữ Dravidi. Ngôn ngữ này có khoảng 70 triệu người ở phía Nam Ấn Độ và Srilanka sử dụng.  
+TS Trần Nam Dũng
+  Bạn có thể quan tâm
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+

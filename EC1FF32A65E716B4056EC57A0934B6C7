@@ -1,0 +1,21 @@
+Đáp án bài toán trong đề thi châu Á Thái Bình Dương 2016
+Bài toán trong đề thi châu Á Thái Bình Dương 2016
+Bài toán sau đây được ra trong cuộc thi AMOPS 2016 (dành cho học sinh lớp 6) diễn ra vào ngày 9/4 vừa qua.
+Đề bài:
+Có 6 chữ A, P, M, O, P, S. Một cái máy tính sắp xếp các từ theo thứ tự trong từ điển: AMOPPS, AMOPSP, AMOSPP..., SPPOMA
+Đáp án:
+Đây là một bài toán khá khó, đặc biệt là đối với trình độ lớp 6. Việc liệt kê cũng gặp khó khăn vì có đến 360 từ.
+Để cho tiện, ta sẽ thay các chữ cái bằng các chữ số, đương nhiên là giữ thứ tự của chúng: A, M, O, P, P, S lần lượt được thay bằng 1, 2, 3, 4, 4, 5. Ta sắp các số có 6 chữ số lập từ các chữ số trên theo thứ tự tăng dần. Cần biết số 431254 nằm ở vị trí thứ mấy?
+Nói cách khác, ta cần tìm số các số có 6 chữ số lập từ các chữ số nói trên và nhỏ hơn hay bằng 434521.
+Giả sử các số đó có dạng abcdef. Nếu a < 4 thì a có 3 cách chọn. 5 chữ số còn lại sẽ có 5.4.3.2.1/2 = 60 cách chọn (vì có 2 số 4 giống nhau). Vậy có 3 x 60 = 180 số trong trường hợp này.
+Nếu a = 4 và b < 3 thì b có 2 cách chọn. 4 chữ số còn lại sẽ có 4.3.2.1 = 24 cách chọn. Vậy có: 2 x 24 = 48 số trong trường hợp này.
+Nếu a = 4, b = 3 thì do số 431254 là số thứ nhì sau số 431245 bắt đầu bằng 43 nên trường hợp này chỉ có thêm hai số. Như vậy tổng lại ta có 180 + 48 + 2 = 230.
+  Bạn có thể quan tâm
+Tin khác
+"Mọi thứ ở Nga thực sự không sẵn để chúng ta tận hưởng, mà đôi khi cần rất nhiều nỗ lực để đạt được những mục tiêu của bản thân",
+Ông Trương Gia Bình cho rằng khi thế giới công nghệ đang phát triển mạnh, học online chính là xu hướng giáo dục của toàn thế giới. 
+Khi tất cả cùng dùng phần mềm, dữ liệu từ các trường được ghép nối sẽ có được thông tin toàn cảnh xét tuyển. Các trường sẽ biết thí sinh
+Sau gần 3 năm học ở 2 trường cao đẳng, đại học tại TP HCM ngành CNTT, em thấy năng lực của mình không bắt kịp, liệu có nên bỏ
+Bên cạnh sự hướng dẫn của các thầy cô giáo, niềm đam mê và chăm chỉ học tập là "chìa khóa" giúp cô bé Nguyễn Cát Tường Vy thành công.
+Trang chủ
+
