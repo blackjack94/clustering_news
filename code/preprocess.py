@@ -17,7 +17,11 @@ def parse_out_text(f):
     return text
 
 path = '../texts'
-filenames = os.listdir(path)
+try:
+    filenames = os.listdir(path)
+except OSError:
+    print "Please change your current working directory to code/\n"
+    raise
 
 all_texts = []
 for filename in filenames:
